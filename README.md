@@ -20,7 +20,7 @@ This Application was built with a clear focus on **data integrity** (using Pydan
 * **CRUD Operations:** Able to create, read and delete subscriptions for full lifecycle management.
 * **Smart Forecasting:** Automatically calculates date deltas to display upcoming bills within a rolling 7-day window only.
 * **Strict Validation:** Prevents bad data entries and data corruption by enforcing strict type checks (i.e., rejecting string inputs for price fields) via Pydantic schemas
-* **Modular Architecture:** Seperation of files between Models (DB), Schemas (Validation), and Routers (Endpoints)
+* **Modular Architecture:** Separation of files between Models (DB), Schemas (Validation), and Routers (Endpoints)
 
 ## API Endpoints
 | Method | Endpoint | Description |
@@ -42,7 +42,7 @@ git clone https://github.com/hamdidris789/subscription-tracker.git
 cd subscription-tracker
 ```
 
-### 2. Create Virual Environment
+### 2. Create Virtual Environment
 
 ```
 # Mac/Linux
