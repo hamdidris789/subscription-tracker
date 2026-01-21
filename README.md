@@ -61,7 +61,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### Run the Server
+### 4. Run the Server
 
 ```
 uvicorn app.main:app --reload
