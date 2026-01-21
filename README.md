@@ -36,7 +36,7 @@ This Application was built with a clear focus on **data integrity** (using Pydan
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/subscription-tracker.git
+git clone https://github.com/hamdidris789/subscription-tracker.git
 cd subscription-tracker
 ```
 
