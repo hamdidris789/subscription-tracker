@@ -1,5 +1,7 @@
 # Smart Subscription Tracker API
 
+![Project Demo](demo_screenshot.png)
+
 A high-performance RESTful API (built with FastAPI) designed for tracking recurring expenses and automatically displaying upcoming bills
 
 ## Overview
